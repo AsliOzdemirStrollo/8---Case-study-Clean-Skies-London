@@ -121,6 +121,13 @@ The project aimed to compare classical statistical methods with modern forecasti
 
 ---
 
+## 📊 Data Source  
+This analysis is based on open data provided by the **London Datastore**:  
+🔗 [London Average Air Quality Levels Dataset](https://data.london.gov.uk/dataset/london-average-air-quality-levels-ep8rw/)  
+The dataset includes historical measurements of major pollutants (NO₂, O₃, PM10, PM2.5) across London.
+
+---
+
 ## 🎓 Key Learnings  
 1. Combining **classical statistical models** with **modern forecasting tools** yields deeper insight into temporal behavior.  
 2. Air pollution follows **strong seasonal patterns**, requiring season-aware models for realistic predictions.  
