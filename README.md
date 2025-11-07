@@ -97,6 +97,7 @@ The project aimed to compare classical statistical methods with modern forecasti
 <img src="Images/Screenshot%202025-11-07%20at%2013.08.42.png" alt="NO₂ Forecast Predictions using Prophet and SARIMA" width="700"/>
 
 *Forecast of NO₂ concentrations in London — projecting gradual decline with persistent seasonal variations.*
+
 ---
 
 ## 🧾 Conclusions (from the Medium article)  
