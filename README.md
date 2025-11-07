@@ -71,16 +71,16 @@ The project aimed to compare classical statistical methods with modern forecasti
 - NO₂ levels have **declined significantly since 2016**, showing the impact of environmental policies.  
 - Clear **seasonality**: higher in winter (heating, traffic) and lower in summer.  
 
-<img src="Images/london_monthly_avg_no2.png" alt="Monthly Average NO₂ Levels in London" width="700"/>
+<img src="Images/Screenshot%202025-11-07%20at%2009.48.37.png" alt="Monthly Average NO₂ Levels in London" width="700"/>
 
 *Monthly average NO₂ concentrations in London — showing clear winter peaks and a long-term downward trend.*
 
 ---
 
 ### 🔹 Seasonal pattern  
-<img src="Images/london_seasonal_pattern.png" alt="Seasonal Pattern of NO₂ Concentration in London" width="700"/>
+<img src="Images/Screenshot%202025-11-07%20at%2015.59.25.png" alt="Seasonal Pattern of NO₂ Concentration in London" width="700"/>
 
-*Seasonal decomposition of NO₂ levels — highlighting recurring yearly cycles and the effect of colder months.*
+*Seasonal decomposition of NO₂ levels — highlighting recurring yearly cycles and the effects of colder months.*
 
 ---
 
@@ -94,10 +94,9 @@ The project aimed to compare classical statistical methods with modern forecasti
 - Predictions indicate a **continued slow decrease** in NO₂ concentration, assuming current trends persist.  
 - However, seasonal peaks remain — clean-air progress depends on sustained emission control and public policy.  
 
-<img src="Images/london_prediction_forecast.png" alt="NO₂ Forecast Predictions using Prophet and SARIMA" width="700"/>
+<img src="Images/Screenshot%202025-11-07%20at%2013.08.42.png" alt="NO₂ Forecast Predictions using Prophet and SARIMA" width="700"/>
 
 *Forecast of NO₂ concentrations in London — projecting gradual decline with persistent seasonal variations.*
-
 ---
 
 ## 🧾 Conclusions (from the Medium article)  
